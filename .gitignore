@@ -33,6 +33,7 @@ MANIFEST
 *.manifest
 *.spec
 
+LoanStats_2019Q1.csv
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
