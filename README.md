@@ -109,6 +109,6 @@ EasyEnsembleClassifier Classification Report:
 - The low_risk population has a precision of 100% with a recall score of 94%
 
 ## Summary
--When compared to the other models the EasyEnsembleClassifier is the most effective. It provides the highest score across all loans no matter the risk.
+- When compared to the other models the EasyEnsembleClassifier is the most effective. It provides the highest score across all loans no matter the risk.
 - All of the models demonstrate a low precision score
 - In general, the EasyEnsembleClassifier will perform the best and give the lending services company the best chance to analysis credit risk.
